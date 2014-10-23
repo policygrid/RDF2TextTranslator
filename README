@@ -5,3 +5,5 @@ The service is configured via 2 files:
 2.  nlgService.properties which contains paths to the lexicon files and the ontologies.xml file, and information about the Sesame server.
 
 By default, those configuration files point to the folders of the test package (./test/lexicon and ./test/ontologies)
+
+Licensed under the Lesser General Public Licence (LGPL) Version 2.1 (http://www.gnu.org/licenses/lgpl-2.1.html)
